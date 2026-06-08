@@ -1,0 +1,11 @@
+{
+  "name": "test-cases-project",
+  "version": "1.0.0",
+  "description": "Unit Test, Negative Test, Integration Test in various languages",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

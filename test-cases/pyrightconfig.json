@@ -1,0 +1,14 @@
+{
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "./src"
+      ]
+    }
+  ]
+}
+{
+  "include": ["src", "tests"],
+  "extraPaths": ["."]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "test-cases-lab",
+  "version": "1.0.0",
+  "description": "Lab demo: Unit Test, Negative Test, Integration Test in JavaScript",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
