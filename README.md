@@ -1,5 +1,5 @@
 <h1 align="center">
-  Software Testing — Theory & Practice
+  Software Testing — Theory & Practice 🔬🧪
 </h1>
 
 <p align="center">
@@ -48,7 +48,7 @@ agile_testing_frameworks/
 
 ---
 
-## Installation & Running
+## Installation & Running 🚀
 
 ### JavaScript (Jest)
 
@@ -80,7 +80,7 @@ pytest -v
 
 ---
 
-## Completed
+## Completed ✅
 
 | # | Topic | Guide | Code |
 |:---:|---|---|---|
@@ -94,7 +94,7 @@ pytest -v
 
 ---
 
-## Upcoming
+## Upcoming 🔜
 
 | # | Topic | Tool / Framework |
 |:---:|---|---|
@@ -121,5 +121,5 @@ Check out his original test cases repo:
 ---
 
 <p align="center">
-  <em>Start from <a href="./testing%20theory/intro.md">Introduction →</a></em>
+  <em>Start from <a href="./testing%20theory/intro.md">Introduction →</a> 🎯</em>
 </p>
