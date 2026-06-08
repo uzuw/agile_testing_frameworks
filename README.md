@@ -112,11 +112,11 @@ pytest -v
 
 ---
 
-## Special Thanks
+## Special Thanks ⭐
 
-All Jest test case content adapted from **[Pranish Poudel](https://github.com/pranishpaudel)**.  
+All Jest test case content adapted from **[Pranish Poudel](https://github.com/pranishpaudel)** 👨🏻‍💻.
 Check out his original test cases repo:  
-[`github.com/pranishpaudel/test-cases`](https://github.com/pranishpaudel/test-cases.git)
+🔗 [`github.com/pranishpaudel/test-cases`](https://github.com/pranishpaudel/test-cases.git)
 
 ---
 
